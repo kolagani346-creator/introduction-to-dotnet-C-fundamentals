@@ -1,0 +1,14 @@
+C:\Users\kolag\OneDrive\ドキュメント\Desktop\pblAssignments\Introduction to dotnet and c# fundamentals\increment_each_char_in_by_1\bin\Debug\net10.0\increment_each_char_in_by_1.exe
+C:\Users\kolag\OneDrive\ドキュメント\Desktop\pblAssignments\Introduction to dotnet and c# fundamentals\increment_each_char_in_by_1\bin\Debug\net10.0\increment_each_char_in_by_1.deps.json
+C:\Users\kolag\OneDrive\ドキュメント\Desktop\pblAssignments\Introduction to dotnet and c# fundamentals\increment_each_char_in_by_1\bin\Debug\net10.0\increment_each_char_in_by_1.runtimeconfig.json
+C:\Users\kolag\OneDrive\ドキュメント\Desktop\pblAssignments\Introduction to dotnet and c# fundamentals\increment_each_char_in_by_1\bin\Debug\net10.0\increment_each_char_in_by_1.dll
+C:\Users\kolag\OneDrive\ドキュメント\Desktop\pblAssignments\Introduction to dotnet and c# fundamentals\increment_each_char_in_by_1\bin\Debug\net10.0\increment_each_char_in_by_1.pdb
+C:\Users\kolag\OneDrive\ドキュメント\Desktop\pblAssignments\Introduction to dotnet and c# fundamentals\increment_each_char_in_by_1\obj\Debug\net10.0\increment_each_char_in_by_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kolag\OneDrive\ドキュメント\Desktop\pblAssignments\Introduction to dotnet and c# fundamentals\increment_each_char_in_by_1\obj\Debug\net10.0\increment_each_char_in_by_1.AssemblyInfoInputs.cache
+C:\Users\kolag\OneDrive\ドキュメント\Desktop\pblAssignments\Introduction to dotnet and c# fundamentals\increment_each_char_in_by_1\obj\Debug\net10.0\increment_each_char_in_by_1.AssemblyInfo.cs
+C:\Users\kolag\OneDrive\ドキュメント\Desktop\pblAssignments\Introduction to dotnet and c# fundamentals\increment_each_char_in_by_1\obj\Debug\net10.0\increment_each_char_in_by_1.csproj.CoreCompileInputs.cache
+C:\Users\kolag\OneDrive\ドキュメント\Desktop\pblAssignments\Introduction to dotnet and c# fundamentals\increment_each_char_in_by_1\obj\Debug\net10.0\increment_each_char_in_by_1.dll
+C:\Users\kolag\OneDrive\ドキュメント\Desktop\pblAssignments\Introduction to dotnet and c# fundamentals\increment_each_char_in_by_1\obj\Debug\net10.0\refint\increment_each_char_in_by_1.dll
+C:\Users\kolag\OneDrive\ドキュメント\Desktop\pblAssignments\Introduction to dotnet and c# fundamentals\increment_each_char_in_by_1\obj\Debug\net10.0\increment_each_char_in_by_1.pdb
+C:\Users\kolag\OneDrive\ドキュメント\Desktop\pblAssignments\Introduction to dotnet and c# fundamentals\increment_each_char_in_by_1\obj\Debug\net10.0\increment_each_char_in_by_1.genruntimeconfig.cache
+C:\Users\kolag\OneDrive\ドキュメント\Desktop\pblAssignments\Introduction to dotnet and c# fundamentals\increment_each_char_in_by_1\obj\Debug\net10.0\ref\increment_each_char_in_by_1.dll

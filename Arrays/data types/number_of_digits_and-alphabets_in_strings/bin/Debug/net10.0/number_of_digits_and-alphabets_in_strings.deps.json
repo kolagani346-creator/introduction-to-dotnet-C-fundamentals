@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "number_of_digits_and-alphabets_in_strings/1.0.0": {
+        "runtime": {
+          "number_of_digits_and-alphabets_in_strings.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "number_of_digits_and-alphabets_in_strings/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
