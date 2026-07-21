@@ -1,0 +1,14 @@
+C:\Users\kolag\OneDrive\ドキュメント\Desktop\pblAssignments\Introduction to dotnet and c# fundamentals\number_of_elements\bin\Debug\net10.0\number_of_elements.exe
+C:\Users\kolag\OneDrive\ドキュメント\Desktop\pblAssignments\Introduction to dotnet and c# fundamentals\number_of_elements\bin\Debug\net10.0\number_of_elements.deps.json
+C:\Users\kolag\OneDrive\ドキュメント\Desktop\pblAssignments\Introduction to dotnet and c# fundamentals\number_of_elements\bin\Debug\net10.0\number_of_elements.runtimeconfig.json
+C:\Users\kolag\OneDrive\ドキュメント\Desktop\pblAssignments\Introduction to dotnet and c# fundamentals\number_of_elements\bin\Debug\net10.0\number_of_elements.dll
+C:\Users\kolag\OneDrive\ドキュメント\Desktop\pblAssignments\Introduction to dotnet and c# fundamentals\number_of_elements\bin\Debug\net10.0\number_of_elements.pdb
+C:\Users\kolag\OneDrive\ドキュメント\Desktop\pblAssignments\Introduction to dotnet and c# fundamentals\number_of_elements\obj\Debug\net10.0\number_of_elements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kolag\OneDrive\ドキュメント\Desktop\pblAssignments\Introduction to dotnet and c# fundamentals\number_of_elements\obj\Debug\net10.0\number_of_elements.AssemblyInfoInputs.cache
+C:\Users\kolag\OneDrive\ドキュメント\Desktop\pblAssignments\Introduction to dotnet and c# fundamentals\number_of_elements\obj\Debug\net10.0\number_of_elements.AssemblyInfo.cs
+C:\Users\kolag\OneDrive\ドキュメント\Desktop\pblAssignments\Introduction to dotnet and c# fundamentals\number_of_elements\obj\Debug\net10.0\number_of_elements.csproj.CoreCompileInputs.cache
+C:\Users\kolag\OneDrive\ドキュメント\Desktop\pblAssignments\Introduction to dotnet and c# fundamentals\number_of_elements\obj\Debug\net10.0\number_of_elements.dll
+C:\Users\kolag\OneDrive\ドキュメント\Desktop\pblAssignments\Introduction to dotnet and c# fundamentals\number_of_elements\obj\Debug\net10.0\refint\number_of_elements.dll
+C:\Users\kolag\OneDrive\ドキュメント\Desktop\pblAssignments\Introduction to dotnet and c# fundamentals\number_of_elements\obj\Debug\net10.0\number_of_elements.pdb
+C:\Users\kolag\OneDrive\ドキュメント\Desktop\pblAssignments\Introduction to dotnet and c# fundamentals\number_of_elements\obj\Debug\net10.0\number_of_elements.genruntimeconfig.cache
+C:\Users\kolag\OneDrive\ドキュメント\Desktop\pblAssignments\Introduction to dotnet and c# fundamentals\number_of_elements\obj\Debug\net10.0\ref\number_of_elements.dll

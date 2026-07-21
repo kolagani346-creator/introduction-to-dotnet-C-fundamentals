@@ -1,0 +1,14 @@
+C:\Users\kolag\OneDrive\ドキュメント\Desktop\pblAssignments\Introduction to dotnet and c# fundamentals\check_the_number\bin\Debug\net10.0\check_the_number.exe
+C:\Users\kolag\OneDrive\ドキュメント\Desktop\pblAssignments\Introduction to dotnet and c# fundamentals\check_the_number\bin\Debug\net10.0\check_the_number.deps.json
+C:\Users\kolag\OneDrive\ドキュメント\Desktop\pblAssignments\Introduction to dotnet and c# fundamentals\check_the_number\bin\Debug\net10.0\check_the_number.runtimeconfig.json
+C:\Users\kolag\OneDrive\ドキュメント\Desktop\pblAssignments\Introduction to dotnet and c# fundamentals\check_the_number\bin\Debug\net10.0\check_the_number.dll
+C:\Users\kolag\OneDrive\ドキュメント\Desktop\pblAssignments\Introduction to dotnet and c# fundamentals\check_the_number\bin\Debug\net10.0\check_the_number.pdb
+C:\Users\kolag\OneDrive\ドキュメント\Desktop\pblAssignments\Introduction to dotnet and c# fundamentals\check_the_number\obj\Debug\net10.0\check_the_number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kolag\OneDrive\ドキュメント\Desktop\pblAssignments\Introduction to dotnet and c# fundamentals\check_the_number\obj\Debug\net10.0\check_the_number.AssemblyInfoInputs.cache
+C:\Users\kolag\OneDrive\ドキュメント\Desktop\pblAssignments\Introduction to dotnet and c# fundamentals\check_the_number\obj\Debug\net10.0\check_the_number.AssemblyInfo.cs
+C:\Users\kolag\OneDrive\ドキュメント\Desktop\pblAssignments\Introduction to dotnet and c# fundamentals\check_the_number\obj\Debug\net10.0\check_the_number.csproj.CoreCompileInputs.cache
+C:\Users\kolag\OneDrive\ドキュメント\Desktop\pblAssignments\Introduction to dotnet and c# fundamentals\check_the_number\obj\Debug\net10.0\check_the_number.dll
+C:\Users\kolag\OneDrive\ドキュメント\Desktop\pblAssignments\Introduction to dotnet and c# fundamentals\check_the_number\obj\Debug\net10.0\refint\check_the_number.dll
+C:\Users\kolag\OneDrive\ドキュメント\Desktop\pblAssignments\Introduction to dotnet and c# fundamentals\check_the_number\obj\Debug\net10.0\check_the_number.pdb
+C:\Users\kolag\OneDrive\ドキュメント\Desktop\pblAssignments\Introduction to dotnet and c# fundamentals\check_the_number\obj\Debug\net10.0\check_the_number.genruntimeconfig.cache
+C:\Users\kolag\OneDrive\ドキュメント\Desktop\pblAssignments\Introduction to dotnet and c# fundamentals\check_the_number\obj\Debug\net10.0\ref\check_the_number.dll

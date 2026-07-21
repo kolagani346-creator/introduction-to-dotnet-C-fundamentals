@@ -1,0 +1,14 @@
+C:\Users\kolag\OneDrive\ドキュメント\Desktop\pblAssignments\Introduction to dotnet and c# fundamentals\Accept_10_integers\bin\Debug\net10.0\Accept_10_integers.exe
+C:\Users\kolag\OneDrive\ドキュメント\Desktop\pblAssignments\Introduction to dotnet and c# fundamentals\Accept_10_integers\bin\Debug\net10.0\Accept_10_integers.deps.json
+C:\Users\kolag\OneDrive\ドキュメント\Desktop\pblAssignments\Introduction to dotnet and c# fundamentals\Accept_10_integers\bin\Debug\net10.0\Accept_10_integers.runtimeconfig.json
+C:\Users\kolag\OneDrive\ドキュメント\Desktop\pblAssignments\Introduction to dotnet and c# fundamentals\Accept_10_integers\bin\Debug\net10.0\Accept_10_integers.dll
+C:\Users\kolag\OneDrive\ドキュメント\Desktop\pblAssignments\Introduction to dotnet and c# fundamentals\Accept_10_integers\bin\Debug\net10.0\Accept_10_integers.pdb
+C:\Users\kolag\OneDrive\ドキュメント\Desktop\pblAssignments\Introduction to dotnet and c# fundamentals\Accept_10_integers\obj\Debug\net10.0\Accept_10_integers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kolag\OneDrive\ドキュメント\Desktop\pblAssignments\Introduction to dotnet and c# fundamentals\Accept_10_integers\obj\Debug\net10.0\Accept_10_integers.AssemblyInfoInputs.cache
+C:\Users\kolag\OneDrive\ドキュメント\Desktop\pblAssignments\Introduction to dotnet and c# fundamentals\Accept_10_integers\obj\Debug\net10.0\Accept_10_integers.AssemblyInfo.cs
+C:\Users\kolag\OneDrive\ドキュメント\Desktop\pblAssignments\Introduction to dotnet and c# fundamentals\Accept_10_integers\obj\Debug\net10.0\Accept_10_integers.csproj.CoreCompileInputs.cache
+C:\Users\kolag\OneDrive\ドキュメント\Desktop\pblAssignments\Introduction to dotnet and c# fundamentals\Accept_10_integers\obj\Debug\net10.0\Accept_10_integers.dll
+C:\Users\kolag\OneDrive\ドキュメント\Desktop\pblAssignments\Introduction to dotnet and c# fundamentals\Accept_10_integers\obj\Debug\net10.0\refint\Accept_10_integers.dll
+C:\Users\kolag\OneDrive\ドキュメント\Desktop\pblAssignments\Introduction to dotnet and c# fundamentals\Accept_10_integers\obj\Debug\net10.0\Accept_10_integers.pdb
+C:\Users\kolag\OneDrive\ドキュメント\Desktop\pblAssignments\Introduction to dotnet and c# fundamentals\Accept_10_integers\obj\Debug\net10.0\Accept_10_integers.genruntimeconfig.cache
+C:\Users\kolag\OneDrive\ドキュメント\Desktop\pblAssignments\Introduction to dotnet and c# fundamentals\Accept_10_integers\obj\Debug\net10.0\ref\Accept_10_integers.dll
