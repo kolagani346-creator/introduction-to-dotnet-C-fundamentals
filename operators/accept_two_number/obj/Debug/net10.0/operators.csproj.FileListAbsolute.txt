@@ -1,0 +1,14 @@
+C:\Users\kolag\OneDrive\ドキュメント\Desktop\pblAssignments\Introduction to dotnet and c# fundamentals\operators\bin\Debug\net10.0\operators.exe
+C:\Users\kolag\OneDrive\ドキュメント\Desktop\pblAssignments\Introduction to dotnet and c# fundamentals\operators\bin\Debug\net10.0\operators.deps.json
+C:\Users\kolag\OneDrive\ドキュメント\Desktop\pblAssignments\Introduction to dotnet and c# fundamentals\operators\bin\Debug\net10.0\operators.runtimeconfig.json
+C:\Users\kolag\OneDrive\ドキュメント\Desktop\pblAssignments\Introduction to dotnet and c# fundamentals\operators\bin\Debug\net10.0\operators.dll
+C:\Users\kolag\OneDrive\ドキュメント\Desktop\pblAssignments\Introduction to dotnet and c# fundamentals\operators\bin\Debug\net10.0\operators.pdb
+C:\Users\kolag\OneDrive\ドキュメント\Desktop\pblAssignments\Introduction to dotnet and c# fundamentals\operators\obj\Debug\net10.0\operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kolag\OneDrive\ドキュメント\Desktop\pblAssignments\Introduction to dotnet and c# fundamentals\operators\obj\Debug\net10.0\operators.AssemblyInfoInputs.cache
+C:\Users\kolag\OneDrive\ドキュメント\Desktop\pblAssignments\Introduction to dotnet and c# fundamentals\operators\obj\Debug\net10.0\operators.AssemblyInfo.cs
+C:\Users\kolag\OneDrive\ドキュメント\Desktop\pblAssignments\Introduction to dotnet and c# fundamentals\operators\obj\Debug\net10.0\operators.csproj.CoreCompileInputs.cache
+C:\Users\kolag\OneDrive\ドキュメント\Desktop\pblAssignments\Introduction to dotnet and c# fundamentals\operators\obj\Debug\net10.0\operators.dll
+C:\Users\kolag\OneDrive\ドキュメント\Desktop\pblAssignments\Introduction to dotnet and c# fundamentals\operators\obj\Debug\net10.0\refint\operators.dll
+C:\Users\kolag\OneDrive\ドキュメント\Desktop\pblAssignments\Introduction to dotnet and c# fundamentals\operators\obj\Debug\net10.0\operators.pdb
+C:\Users\kolag\OneDrive\ドキュメント\Desktop\pblAssignments\Introduction to dotnet and c# fundamentals\operators\obj\Debug\net10.0\operators.genruntimeconfig.cache
+C:\Users\kolag\OneDrive\ドキュメント\Desktop\pblAssignments\Introduction to dotnet and c# fundamentals\operators\obj\Debug\net10.0\ref\operators.dll
