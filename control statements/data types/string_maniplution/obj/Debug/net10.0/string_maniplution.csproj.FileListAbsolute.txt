@@ -1,0 +1,14 @@
+C:\Users\kolag\OneDrive\ドキュメント\Desktop\pblAssignments\Introduction to dotnet and c# fundamentals\string_maniplution\bin\Debug\net10.0\string_maniplution.exe
+C:\Users\kolag\OneDrive\ドキュメント\Desktop\pblAssignments\Introduction to dotnet and c# fundamentals\string_maniplution\bin\Debug\net10.0\string_maniplution.deps.json
+C:\Users\kolag\OneDrive\ドキュメント\Desktop\pblAssignments\Introduction to dotnet and c# fundamentals\string_maniplution\bin\Debug\net10.0\string_maniplution.runtimeconfig.json
+C:\Users\kolag\OneDrive\ドキュメント\Desktop\pblAssignments\Introduction to dotnet and c# fundamentals\string_maniplution\bin\Debug\net10.0\string_maniplution.dll
+C:\Users\kolag\OneDrive\ドキュメント\Desktop\pblAssignments\Introduction to dotnet and c# fundamentals\string_maniplution\bin\Debug\net10.0\string_maniplution.pdb
+C:\Users\kolag\OneDrive\ドキュメント\Desktop\pblAssignments\Introduction to dotnet and c# fundamentals\string_maniplution\obj\Debug\net10.0\string_maniplution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kolag\OneDrive\ドキュメント\Desktop\pblAssignments\Introduction to dotnet and c# fundamentals\string_maniplution\obj\Debug\net10.0\string_maniplution.AssemblyInfoInputs.cache
+C:\Users\kolag\OneDrive\ドキュメント\Desktop\pblAssignments\Introduction to dotnet and c# fundamentals\string_maniplution\obj\Debug\net10.0\string_maniplution.AssemblyInfo.cs
+C:\Users\kolag\OneDrive\ドキュメント\Desktop\pblAssignments\Introduction to dotnet and c# fundamentals\string_maniplution\obj\Debug\net10.0\string_maniplution.csproj.CoreCompileInputs.cache
+C:\Users\kolag\OneDrive\ドキュメント\Desktop\pblAssignments\Introduction to dotnet and c# fundamentals\string_maniplution\obj\Debug\net10.0\string_maniplution.dll
+C:\Users\kolag\OneDrive\ドキュメント\Desktop\pblAssignments\Introduction to dotnet and c# fundamentals\string_maniplution\obj\Debug\net10.0\refint\string_maniplution.dll
+C:\Users\kolag\OneDrive\ドキュメント\Desktop\pblAssignments\Introduction to dotnet and c# fundamentals\string_maniplution\obj\Debug\net10.0\string_maniplution.pdb
+C:\Users\kolag\OneDrive\ドキュメント\Desktop\pblAssignments\Introduction to dotnet and c# fundamentals\string_maniplution\obj\Debug\net10.0\string_maniplution.genruntimeconfig.cache
+C:\Users\kolag\OneDrive\ドキュメント\Desktop\pblAssignments\Introduction to dotnet and c# fundamentals\string_maniplution\obj\Debug\net10.0\ref\string_maniplution.dll
